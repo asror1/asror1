@@ -1,5 +1,5 @@
 
-<img align="right" width="50px" height="50px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">
+<img align="left" width="50px" height="50px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">
 
 # Hello there!
 
