@@ -1,9 +1,10 @@
 
 
-| **Hello there!**|<img align="left" width="50px" height="50px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">|
+| **Hello there!** | <img width="50px" height="50px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif"> |
+***
 
 
-<img width="50px" height="75px" src="https://user-images.githubusercontent.com/92228287/166003164-4fa0f817-61c0-4f65-83af-fed79a69549b.png">
+<!-- <img width="50px" height="75px" src="https://user-images.githubusercontent.com/92228287/166003164-4fa0f817-61c0-4f65-83af-fed79a69549b.png"> -->
 
  * 🔭 I am currently working on... a stock market display and alert application for desktop.<br>
   - If you have any suggestions feel free to open a pull request!
