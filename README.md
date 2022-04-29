@@ -1,8 +1,7 @@
 
 
-# Hello there! <img width="50px" height="50px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif"> 
+# Hello there! <img width="50px" height="50px" src="https://user-images.githubusercontent.com/92228287/166006848-1d1239e9-0865-4f1e-8638-f0efc553e9ef.gif"> 
 ***
-
 
 <!-- <img width="50px" height="75px" src="https://user-images.githubusercontent.com/92228287/166003164-4fa0f817-61c0-4f65-83af-fed79a69549b.png"> -->
 
