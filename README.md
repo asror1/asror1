@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg>
+<!-- <img src=https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg> -->
 ![hi_rob](https://user-images.githubusercontent.com/92228287/165879836-75e4404d-33a7-4869-8d74-292ce32e5f19.png)
 
 <!--
