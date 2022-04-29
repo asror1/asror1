@@ -1,5 +1,5 @@
 <!-- <img src=https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg> -->
-<img align="center" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">
+<img align="center" width="100px" height="100px" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">
 <img align="right" src="https://user-images.githubusercontent.com/92228287/165879989-f935ef24-fd27-40ed-85f9-c835a6a834a2.png">
 
  * 🔭 I am currently working on... a stock market display and alert application for desktop.<br>
