@@ -15,8 +15,8 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  PS:\> for($i=0;$i -lt 4294967296;++$i){|    |
-           |   |  echo 'Hello World'}                    |    |
+           |   |  PS:\> while($true){echo 'Hello World'} |    |
+           |   |  Hello World                            |    |
            |   |  Hello World                            |    |
            |   |  Hello World                            |    |
            |   |  Hello World                            |    |
