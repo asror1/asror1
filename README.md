@@ -34,7 +34,8 @@
                           `---._.-------------------------------------------------------------._.---'
 ```
 <hr style="border:0.5px solid gray">
-* 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
+
+ * 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
     - If you have any suggestions feel free to open a pull request!
  
  * 🌱  <ins>I’m currently learning</ins>... Spring Boot
