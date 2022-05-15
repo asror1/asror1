@@ -1,16 +1,9 @@
 
 
-# Hello there! <img width="50px" height="50px" src="https://user-images.githubusercontent.com/92228287/166006848-1d1239e9-0865-4f1e-8638-f0efc553e9ef.gif"> 
+<!-- # Hello there! <img width="50px" height="50px" src="https://user-images.githubusercontent.com/92228287/166006848-1d1239e9-0865-4f1e-8638-f0efc553e9ef.gif">  -->
 
  
- * 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
-    - If you have any suggestions feel free to open a pull request!
- 
- * 🌱  <ins>I’m currently learning</ins>... Spring Boot
- 
- * 📫 <ins>You can also reach me at</ins>: _asrorklichev@yahoo.com_
-
-```         
+ ```         
              ________________________________________________
             /                                                \
            |    _________________________________________     |
@@ -40,6 +33,14 @@
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
 ```
+* 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
+    - If you have any suggestions feel free to open a pull request!
+ 
+ * 🌱  <ins>I’m currently learning</ins>... Spring Boot
+ 
+ * 📫 <ins>You can also reach me at</ins>: _asrorklichev@yahoo.com_
+
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
