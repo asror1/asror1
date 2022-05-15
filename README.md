@@ -33,7 +33,7 @@
                           :-------------------------------------------------------------------------:
                           `---._.-------------------------------------------------------------._.---'
 ```
----
+<hr>
 * 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
     - If you have any suggestions feel free to open a pull request!
  
@@ -41,7 +41,7 @@
  
  * 📫 <ins>You can also reach me at</ins>: _asrorklichev@yahoo.com_
 
----
+<hr>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
