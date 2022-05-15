@@ -33,6 +33,7 @@
                           :-------------------------------------------------------------------------:
                           `---._.-------------------------------------------------------------._.---'
 ```
+---
 * 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
     - If you have any suggestions feel free to open a pull request!
  
