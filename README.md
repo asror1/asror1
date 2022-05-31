@@ -38,7 +38,7 @@
  * 🔭 <ins>I am currently working on</ins>... a stock market display and alert application for desktop.<br>
     - If you have any suggestions feel free to open a pull request!
  
- * 🌱  <ins>I’m currently learning</ins>... Spring Boot
+ * 🌱  <ins>I’m currently learning</ins>... React.js
  
  * 📫 <ins>You can also reach me at</ins>: _asrorklichev@yahoo.com_
 
